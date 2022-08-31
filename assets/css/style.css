@@ -619,9 +619,20 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.sm-btn{
+  margin: 1px;
+  padding: 5px;
+}
+.sm-btn:hover{
+  background: #ef6603; 
+  color: #fff;
+  border-radius: 50px;
+  padding-bottom: 0;
+  
+  
+}
 
 
- 
 
 /*--------------------------------------------------------------
 # counter
